@@ -1,4 +1,4 @@
-# -The-Starisks
+# -The-Starisks\\written in C
 #include<stdio.h>
 
 int main()
